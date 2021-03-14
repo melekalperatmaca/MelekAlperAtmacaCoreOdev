@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MelekAlperAtmacaCoreOdev.Core\MelekAlperAtmacaCoreOdev.Core.csproj" />
+    <ProjectReference Include="..\MelekAlperAtmacaCoreOdev.Data\MelekAlperAtmacaCoreOdev.Data.csproj" />
+  </ItemGroup>
+
+</Project>
